@@ -1,5 +1,5 @@
 # 555-Timer-PWM-Circuit
-This circuit creates a ~1kHz PWM signal that ranges from 10% to 99% duty cycle. I have made this to explore creating PWM signals without the use of a microcontroller. For uses in DC-DC converters.
+This circuit creates a ~1kHz PWM signal that ranges from 10% to 99% duty cycle. I have made this to explore creating PWM signals without the use of a microcontroller. For uses in DC-DC converters, Motor speed control, LED brightness control, ect.
 
 Parts List:
 
